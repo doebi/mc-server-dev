@@ -8,3 +8,9 @@
 [submodule "plugins/Core"]
 	path = plugins/Core
 	url = git@github.com:mc-server/Core.git
+[submodule "plugins/ChatLog"]
+	path = plugins/ChatLog
+	url = git@github.com:mc-server/ChatLog.git
+[submodule "plugins/PerfPages"]
+	path = plugins/PerfPages
+	url = https://github.com/mc-server/PerfPages

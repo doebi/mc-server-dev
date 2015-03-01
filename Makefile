@@ -5,7 +5,7 @@
 # ---
 
 OUTDIR=runtime
-PLUGINS=Core mc-server-pvp
+PLUGINS=Core ChatLog PerfPages mc-server-pvp
 
 all: update build deploy
 
