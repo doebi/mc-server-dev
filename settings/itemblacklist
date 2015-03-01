@@ -1,0 +1,44 @@
+# Contains the list of items that cannot be obtained through the give and item commands.
+# Add items to this file to add them to the blacklist
+# or remove them from this file to remove them from the blacklist.
+
+
+redstonetorchoff
+litfurnace
+activecomparator
+cakeblock
+redstonelampon
+lava
+sprucedoor
+whitedoor
+signblock
+acaciadoor
+roofedoakdoor
+wooddoorblock
+pistonhead
+reedblock
+netherwartblock
+wallsign
+irondoor
+swater
+stilllava
+brewingstandblock
+portal
+endportal
+bedblock
+cauldronblock
+36
+94
+carrotcrop
+tilleddirt
+potatocrop
+crops
+pumpkinstem
+water
+144
+jungledoor
+melonstem
+redstonewire
+redstoneorealt
+178
+flowerpotblock

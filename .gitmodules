@@ -5,3 +5,6 @@
 [submodule "plugins/mc-server-pvp"]
 	path = plugins/mc-server-pvp
 	url = git@github.com:doebi/mc-server-pvp.git
+[submodule "plugins/Core"]
+	path = plugins/Core
+	url = git@github.com:mc-server/Core.git
