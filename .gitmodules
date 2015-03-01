@@ -1,0 +1,7 @@
+[submodule "MCServer"]
+	path = MCServer
+	url = https://github.com/mc-server/MCServer
+    ignore = dirty
+[submodule "plugins/mc-server-pvp"]
+	path = plugins/mc-server-pvp
+	url = git@github.com:doebi/mc-server-pvp.git
